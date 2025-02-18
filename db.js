@@ -41,7 +41,8 @@ const dadosIniciais = {
     produtos: [],
     transferencias: [],
     historico_entradas: [],
-    atividades: []
+    atividades: [],
+    logs_autenticacao: []
 };
 
 // Função para resetar o banco de dados
